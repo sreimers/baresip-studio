@@ -31,4 +31,4 @@
 #  <sip:user:secret@1.2.3.4;transport=tcp>
 #  <sip:user:secret@[2001:df8:0:16:216:6fff:fe91:614c]:5070;transport=tcp>
 #
-#<sip:user:secret@domain.com>;ptime=20;audio_codecs=OPUS/48000/2,speex/16000,speex/8000,PCMA,PCMU;video_codecs="";regint=600;sipnat=outbound;mediaenc=zrtp
+#<sip:user:secret@domain.com>;ptime=20;audio_codecs=OPUS/48000/2,speex/16000,speex/8000,PCMA,PCMU;video_codecs="";regint=600;mediaenc=zrtp
