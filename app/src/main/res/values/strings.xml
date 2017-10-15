@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">baresip</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="title_activity_edit_accounts">EditAccounts</string>
+    <string name="helpText">
+      Accounts: edit accounts\n\n
+      Contacts: edit contacts\n\n
+      Start: start SIP User Agent\n\n
+      Quit: quit baresip\n\n
+      After editing accounts, press start and point your browser to
+      http://127.0.0.1:8000.
+    </string>
+</resources>
